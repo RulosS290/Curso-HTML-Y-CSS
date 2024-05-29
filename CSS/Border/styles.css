@@ -1,0 +1,12 @@
+div {
+    background: red;
+    width: 200px;
+    margin: auto;
+    text-align: center;
+}
+
+div {
+    border-width: 10px;
+    border-color: rgb(112, 34, 34);
+    border-style: groove;
+}
